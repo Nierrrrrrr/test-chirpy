@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://nierrrrrrr.github.io/test-chirpy/sitemap.xml
